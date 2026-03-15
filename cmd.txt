@@ -1,0 +1,4 @@
+### Reboot your device after entering commands in cmd as administrator
+
+netsh winsock reset catalog
+netsh int ipv6 reset reset.log

@@ -1,0 +1,7 @@
+### Paste into 'utils' -> 'targets'
+
+### Warp
+Warp = "cloudflarecp.com"
+Warp = "warp.plus"
+Warp = "cloudflareaccess.com"
+Warp = "cloudflare.net"
